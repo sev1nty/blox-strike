@@ -1,5 +1,1 @@
-{
-"StaffList": "Staff",
-"AdminList": "Admins",
-"ExploitFilter": "ExploitFilter"
-}
+["Staff", "Admins", "ExploitFilter"]
